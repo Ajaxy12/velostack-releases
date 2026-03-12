@@ -6,7 +6,7 @@ Desktop application for VeloStack - the AI-powered development platform.
 
 Download the latest VeloStack Desktop installer for **Windows** and **Linux**.
 
-Visit https://velostack.dev/download
+Visit https://velostack.dev/code/download
 
 ## About
 
